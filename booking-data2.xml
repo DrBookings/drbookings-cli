@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataStoreCoreSer2>
+    <bookings>
+        <booking guestName="Laura Leser" checkInDate="2019-01-27" checkOutDate="2019-02-01" roomName="1" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="268.25" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="6507aa75-e896-4511-90db-0eb68c4df24a">
+            <payments>
+                <payments amount="268.25" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Jana Arends" checkInDate="2019-01-27" checkOutDate="2019-02-01" roomName="2" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="268.25" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="3015be2f-aab2-4b21-aeaa-e5578869e4d6">
+            <payments>
+                <payments amount="268.25" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Zuzanna" checkInDate="2019-01-28" checkOutDate="2019-02-03" roomName="3" origin="Airbnb" cleaningFeesExpression="60.0" grossPaymentsExpression="295.08" serviceFeePercentExpression="0.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="4f85f728-e6df-4b90-8635-6d96f0ba18de">
+            <payments>
+                <payments amount="295.08" date="2019-02-01"/>
+            </payments>
+        </booking>
+        <booking guestName="Alexander Mangold" checkInDate="2019-02-01" checkOutDate="2019-02-03" roomName="2" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="140.0" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="3f87966b-c22b-46be-bb19-5d99f9c9a794">
+            <payments>
+                <payments amount="1.4E+2" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Benedikt" checkInDate="2019-02-03" checkOutDate="2019-02-06" roomName="3" origin="Airbnb" cleaningFeesExpression="60.0" grossPaymentsExpression="179.36" serviceFeePercentExpression="0.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="d9a22fe9-4ba4-4223-b7ab-23b7a1dedf64">
+            <payments>
+                <payments amount="179.36" date="2019-02-09"/>
+            </payments>
+        </booking>
+        <booking guestName="Annelies Van Hijfte" checkInDate="2019-02-04" checkOutDate="2019-02-11" roomName="2" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="356.65" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="9b00e784-0daa-4579-9b66-83720eb4d204">
+            <payments>
+                <payments amount="356.65" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="mohamed abdallah mahmoud" checkInDate="2019-02-05" checkOutDate="2019-02-08" roomName="1" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="182.4" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="29e1a797-a435-459e-8bae-95ce58f6015b">
+            <payments>
+                <payments amount="182.4" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Julie Gibson" checkInDate="2019-02-06" checkOutDate="2019-02-10" roomName="4" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="226.6" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="3c43c735-0c4a-46c0-9918-54caa900876c">
+            <payments>
+                <payments amount="226.6" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="michael schwedka" checkInDate="2019-02-09" checkOutDate="2019-02-15" roomName="3" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="292.2" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="08da56df-81b4-4c69-b39f-74304d3aeca2">
+            <payments>
+                <payments amount="292.2" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Andreas Rehberg" checkInDate="2019-02-10" checkOutDate="2019-02-16" roomName="1" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="309.9" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="c6015c8d-3b15-47af-b9cc-c11f03cb5daa">
+            <payments>
+                <payments amount="309.9" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Sorina Dop" checkInDate="2019-02-11" checkOutDate="2019-02-22" roomName="2" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="518.15" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="7a6eed25-dc3f-4614-91fd-1ea4754805b5">
+            <payments>
+                <payments amount="518.15" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Lioba" checkInDate="2019-02-14" checkOutDate="2019-02-17" roomName="4" origin="Airbnb" cleaningFeesExpression="60.0" grossPaymentsExpression="185.15" serviceFeePercentExpression="0.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="8e8bf482-804e-4f72-aeb0-e632457fcea4">
+            <payments>
+                <payments amount="185.15" date="2019-02-18"/>
+            </payments>
+        </booking>
+        <booking guestName="Elena Moreno Fernández" checkInDate="2019-02-16" checkOutDate="2019-02-20" roomName="1" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="256.0" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="4fa6f9c5-2f71-4e0f-a128-8391b8a729ff">
+            <payments>
+                <payments amount="256" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Elena Moreno Fernández" checkInDate="2019-02-16" checkOutDate="2019-02-20" roomName="3" origin="Booking" cleaningFeesExpression="60.0" grossPaymentsExpression="256.0" serviceFeePercentExpression="12.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="11b4f66c-39b0-40cc-9543-59219739d180">
+            <payments>
+                <payments amount="256" date="2019-02-28"/>
+            </payments>
+        </booking>
+        <booking guestName="Clients" checkInDate="2019-02-18" checkOutDate="2019-02-23" roomName="4" origin="" cleaningFeesExpression="60.0" grossPaymentsExpression="5*60+60" serviceFeePercentExpression="0.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="12fbcb25-3991-43f9-aa34-71a71046b914">
+            <payments>
+                <payments amount="3.6E+2" date="2019-02-23"/>
+            </payments>
+        </booking>
+        <booking guestName="Clients" checkInDate="2019-02-20" checkOutDate="2019-03-08" roomName="3" origin="" cleaningFeesExpression="50.0" grossPaymentsExpression="15*50+50" serviceFeePercentExpression="0.0" welcomeMailSend="true" numberOfGuests="-1" bookingId="8c2a35ab-f737-4730-964d-02d2e72e027b">
+            <payments>
+                <payments amount="8E+2" date="2019-02-28"/>
+            </payments>
+        </booking>
+    </bookings>
+    <cleanings>
+        <cleaning name="Anita" date="2019-02-23" room="4" cleaningCosts="74.97" tax="true" bookingBeforeId="12fbcb25-3991-43f9-aa34-71a71046b914" calendarIds="npdvnhhhnkooa39idauvhgf02o 0lpo35bef3j7ug4ch8gs8bpbg8 i0tr59dk874m9fe22pr8nuaggc n7ji669gqad2uhq3q3a250h6h0 o21n6f3681eometcp2sbh7kj8s 8hcjv3g0tmlfgsvr1qu9ds235c 957uqet461oc4avepaa5uoeqc0">
+            <payments/>
+        </cleaning>
+        <cleaning name="Anita" date="2019-02-22" room="2" cleaningCosts="49.98" tax="true" bookingBeforeId="7a6eed25-dc3f-4614-91fd-1ea4754805b5" calendarIds="ifa1jfohmbgv7o372r8rsk6uf8 a8vusmq8ff2h834ijch93jm5sc 74glagc1cd46jtrss8arn9bpns tuammomogi086f0krm2bf3cmeo u76t43dqs3f7voj12h5f754j1s">
+            <payments/>
+        </cleaning>
+        <cleaning name="Gina" date="2019-02-20" room="1" cleaningCosts="40.0" tax="true" bookingBeforeId="4fa6f9c5-2f71-4e0f-a128-8391b8a729ff" calendarIds="9eimqthvblsmgoi158nici11g0 ei152jo47ltdu2k2lkca9fkqv0 7iijdg3r3n73pv9um4vdlatic8 mslicqg1le09c1vmim4galsjn0 nlpaps0jo9osp8qfkv5g5r0v8g">
+            <payments/>
+        </cleaning>
+        <cleaning name="Gina" date="2019-02-20" room="3" cleaningCosts="40.0" tax="true" bookingBeforeId="11b4f66c-39b0-40cc-9543-59219739d180" calendarIds="9hebu1fjv2sl1pliahma826c5k qdenakbil28puc7dcclue2a2t4 i4fqj17q9dgjm3ger5l1ngrm6k r4aug81t6h234pqmu9aa97k7hk g8bkqc1thd60b931l4787cbt1k">
+            <payments/>
+        </cleaning>
+        <cleaning name="Alona" date="2019-02-17" room="4" cleaningCosts="25.0" tax="false" bookingBeforeId="8e8bf482-804e-4f72-aeb0-e632457fcea4" calendarIds="fikbm03dmaqd3877sda8c98ntc 3ah356q1t1qfa4mh6re71j9ge0 kh2qgq1b11kdflc4do6ig9irdk m304mgbnrd4e2ab7o6thn0v180 vagfvr9809j4eigto469ecngh8">
+            <payments/>
+        </cleaning>
+        <cleaning name="Alona" date="2019-02-16" room="1" cleaningCosts="25.0" tax="false" bookingBeforeId="c6015c8d-3b15-47af-b9cc-c11f03cb5daa" calendarIds="qg48128vdagku71tsdf9o8705c pc9t9m8eh0ded34sk2p106e260 op061u3v3ana5jqrpc0nb584n0 1mg2m84bbfh76hj1435dq0t7so fia293gc3s59lc71p6th74gcpk 7iqa63s1ud6tldgof7soahp1tg kru5rt1ahn3f4v1c86lrl178co">
+            <payments/>
+        </cleaning>
+        <cleaning name="Alona" date="2019-02-16" room="3" cleaningCosts="25.0" tax="false" bookingBeforeId="08da56df-81b4-4c69-b39f-74304d3aeca2" calendarIds="cna206o16ca1bbgpav7uogdu20 gahvkhc63ks47qotk8uuicbh38 7a1fl378ifk7lsp1dht9uh87lo v83ao14iijhjbkhht63gndhgfc sntku4ji777cbks43u3815819g 3paddj6n9delc7qq3pjtujb24c gk03k6mkrv849jfreroegk55r8">
+            <payments/>
+        </cleaning>
+        <cleaning name="Anita" date="2019-02-11" room="2" cleaningCosts="49.98" tax="true" bookingBeforeId="9b00e784-0daa-4579-9b66-83720eb4d204" calendarIds="a04n8sdfcthvppk1hjr4nvh4j0 kf6itr7c6b8cv0012ogkj7f0u8 29pj1vmb6iea45f0r0o896kg0c obo43h2bn2oh9muqbt50ijqn4c 5k171fjfqgriianr6enrk9khno 3q2t5hqveci45fdvds3bj4nems">
+            <payments/>
+        </cleaning>
+        <cleaning name="Alona" date="2019-02-10" room="4" cleaningCosts="25.0" tax="false" bookingBeforeId="3c43c735-0c4a-46c0-9918-54caa900876c" calendarIds="0a04p8hhhrrf9q833gtfk6kjb4 ijv2u10453e3vgisoe7pi1gu98 86b9g3s0kgg319sk390gtrpqgg 6keemhncb15b1nv7b82ns7jras 0i3ld7lr9iv2jqlvnnmu8vrs1g gvf82pvvc5vp4k48hsg946fvro">
+            <payments/>
+        </cleaning>
+        <cleaning name="Anita" date="2019-02-08" room="1" cleaningCosts="74.97" tax="true" bookingBeforeId="29e1a797-a435-459e-8bae-95ce58f6015b" calendarIds="">
+            <payments/>
+        </cleaning>
+        <cleaning name="Gina" date="2019-02-06" room="3" cleaningCosts="40.0" tax="true" bookingBeforeId="d9a22fe9-4ba4-4223-b7ab-23b7a1dedf64" calendarIds="fsfouj11luri2jsq27tn424cl0 oo3lop6du84jh7hntr3co8on04 8jhq3avodphgsdqcq1utml6bss ld0j7isooeenjqrhokbbsune8s c90bquctt31gi2go5tdv9r4uds">
+            <payments/>
+        </cleaning>
+        <cleaning name="Alona" date="2019-02-03" room="2" cleaningCosts="25.0" tax="false" bookingBeforeId="3f87966b-c22b-46be-bb19-5d99f9c9a794" calendarIds="a0vuruttdmpbq4vdcqbb7cqs8o p2pf7fpn9lg6t9sgdlpp4mmc8s uej86pjfi5a8epl92lb2b760nk p18svu5shmi71uv15dnq1sm3k8">
+            <payments/>
+        </cleaning>
+        <cleaning name="Alona" date="2019-02-03" room="3" cleaningCosts="25.0" tax="false" bookingBeforeId="4f85f728-e6df-4b90-8635-6d96f0ba18de" calendarIds="n9glmvit98t1ss8v40ud1hhqro fqqkrlk2u8var69qvdrkl5kaoo 2kiu4i7k5ujuksjabp5luovmpk 5vgoqbqj65dgobpiuee63m6rlk">
+            <payments/>
+        </cleaning>
+        <cleaning name="Alona" date="2019-02-02" room="4" cleaningCosts="25.0" tax="false" bookingBeforeId="53d2e3d6-0122-4eaf-93a9-a40b2a3ead25" calendarIds="0lh5m5nmen1h0gaq1jumeu3oak v3icsifdqusu0cc4s6v32ju8k4">
+            <payments/>
+        </cleaning>
+        <cleaning name="Gina" date="2019-02-01" room="2" cleaningCosts="40.0" tax="true" bookingBeforeId="3015be2f-aab2-4b21-aeaa-e5578869e4d6" calendarIds="mh1b8q75bl93sr44llhjapdkd0 3tmk3e7sodi2ui1i1hfu21jv9s eru3kj44fbqtkjc8djpf2vn604 nsm45tjr7skpva1qede1si4feg 390qu6mr0n6tr182sh01tp7kig">
+            <payments/>
+        </cleaning>
+        <cleaning name="Gina" date="2019-02-01" room="1" cleaningCosts="40.0" tax="true" bookingBeforeId="6507aa75-e896-4511-90db-0eb68c4df24a" calendarIds="t8ehb3ap9uosr88uj79bfqg1g0 26tck3a8jij217v7jbai8u1uvg 4ituskr4rj7a0la5ipe580gqpc 8aoifonnlaitudta439hg9792s gqg8vtt9dsoqrkrjcjlag27foc">
+            <payments/>
+        </cleaning>
+    </cleanings>
+    <expenses>
+        <expense name="Kontoführung" date="2018-08-31" amount="0.45"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-08-31" amount="42.57"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-08-31" amount="154.35"/>
+        <expense name="KNAPPSCHAFT-BAHN-SEE" date="2018-08-16" amount="30.16"/>
+        <expense name="WEG Bergheimer Str. 36/1" date="2018-08-10" amount="1500.0"/>
+        <expense name="STADWERKE HEIDELBERG" date="2018-07-05" amount="180.0"/>
+        <expense name="Kontoführung" date="2018-09-28" amount="0.27"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-09-28" amount="6.57"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-09-28" amount="154.35"/>
+        <expense name="WEG Bergheimer Str. 36/1" date="2018-09-10" amount="1500.0"/>
+        <expense name="STADWERKE HEIDELBERG" date="2018-09-05" amount="180.0"/>
+        <expense name="Kontoführung" date="2018-10-31" amount="0.63"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-10-31" amount="21.8"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-10-31" amount="154.35"/>
+        <expense name="WEG Bergheimer Str. 36/1" date="2018-10-10" amount="1500.0"/>
+        <expense name="STADWERKE HEIDELBERG" date="2018-10-05" amount="180.0"/>
+        <expense name="Kontoführung" date="2018-11-30" amount="0.9"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-11-30" amount="21.8"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-11-30" amount="154.35"/>
+        <expense name="WEG Bergheimer Str. 36/1" date="2018-11-12" amount="1500.0"/>
+        <expense name="STADWERKE HEIDELBERG" date="2018-11-05" amount="180.0"/>
+        <expense name="Stadt Heidelberg, Grundsteuer" date="2018-11-07" amount="173.04"/>
+        <expense name="Kontoführung" date="2018-12-31" amount="1.8"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-12-31" amount="21.8"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2018-12-31" amount="154.35"/>
+        <expense name="WEG Bergheimer Str. 36/1" date="2018-12-10" amount="1500.0"/>
+        <expense name="STADWERKE HEIDELBERG" date="2018-12-05" amount="180.0"/>
+        <expense name="Kontoführung" date="2019-01-31" amount="0.81"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2019-01-31" amount="21.8"/>
+        <expense name="UNITYMEDIA BW GMBH" date="2019-01-31" amount="154.35"/>
+        <expense name="STADWERKE HEIDELBERG" date="2019-01-07" amount="180.0"/>
+        <expense name="WEG Bergheimer Str. 36/1" date="2019-01-02" amount="1500.0"/>
+    </expenses>
+</dataStoreCoreSer2>
